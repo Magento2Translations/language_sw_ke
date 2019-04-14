@@ -1,0 +1,15 @@
+"Incoming Message","Ujumbe unaoingia",module,Magento_AdminNotification
+close,funga,module,Magento_AdminNotification
+Notifications,Taarifa,module,Magento_AdminNotification
+"Please select messages.","Tafadhali teua ujumbe.",module,Magento_AdminNotification
+"The message has been removed.","Ujumbe umeondolewa.",module,Magento_AdminNotification
+"1 Hour","Saa 1",module,Magento_AdminNotification
+"2 Hours","Masaa 2",module,Magento_AdminNotification
+"6 Hours","Masaa 6",module,Magento_AdminNotification
+"12 Hours","Masaa 12",module,Magento_AdminNotification
+"24 Hours","Masaa 24",module,Magento_AdminNotification
+critical,muhimu,module,Magento_AdminNotification
+major,kubwa,module,Magento_AdminNotification
+minor,madogo,module,Magento_AdminNotification
+notice,ilani,module,Magento_AdminNotification
+"Wrong message type","Aina ya ujumbe usio sahihi",module,Magento_AdminNotification
